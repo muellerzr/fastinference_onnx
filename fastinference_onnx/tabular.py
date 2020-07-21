@@ -4,6 +4,9 @@ __all__ = ['FillMissing', 'Categorize', 'Normalize', 'apply_procs', 'TabularData
 
 # Cell
 import numpy as np
+
+# Cell
+#slow
 import onnxruntime as ort
 
 # Cell
