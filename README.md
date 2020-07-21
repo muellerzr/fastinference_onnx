@@ -1,4 +1,9 @@
-# nbdev template
+# fastinference-onnx
+> An ONNX only version of fastai. 
 
-Use this template to more easily create your nbdev project.
 
+To use this library you **must** export your `Learner` using `fastinference`
+
+## Install
+
+`pip install fastinference_onnx`
